@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Jupyter and operating-system metadata
+.ipynb_checkpoints/
+.DS_Store
+._*
+
+# Training and inference outputs
+outputs/
+runs/
+*.pth
+
+# Verification and local diagnostics
+checkpoint_verification*.json
+source_checksums.sha256
+*.tmp

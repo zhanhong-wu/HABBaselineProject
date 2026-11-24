@@ -1,0 +1,9 @@
+torch
+torchvision
+segmentation-models-pytorch>=0.5.0
+timm
+numpy
+rasterio
+matplotlib
+tqdm
+tensorboard
